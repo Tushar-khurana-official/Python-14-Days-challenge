@@ -5,15 +5,15 @@
 #         check = False
 #         break
 
- if(check == True):
-     print(f"{num} is a prime number")
- else:
-     print(f"{num} is not a prime number")
+ # if(check == True):
+ #     print(f"{num} is a prime number")
+ # else:
+ #     print(f"{num} is not a prime number")
 
-#question 2
-# m = int(input("enter a number: "))
-# n = int(input("enter a power: "))
-# print(m**n)
+question 2
+m = int(input("enter a number: "))
+n = int(input("enter a power: "))
+print(m**n)
 
 #question 3
 # def check_even(num):
