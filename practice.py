@@ -10,17 +10,17 @@
  # else:
  #     print(f"{num} is not a prime number")
 
-question 2
-m = int(input("enter a number: "))
-n = int(input("enter a power: "))
-print(m**n)
+# question 2
+# m = int(input("enter a number: "))
+# n = int(input("enter a power: "))
+# print(m**n)
 
-#question 3
-# def check_even(num):
-#     if(num % 2 == 0):
-#         return True
-#     else:
-#         return False
+question 3
+def check_even(num):
+    if(num % 2 == 0):
+        return True
+    else:
+        return False
     
 # num = int(input("enter a number: "))
 # check = check_even(num)
